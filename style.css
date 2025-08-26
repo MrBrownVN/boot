@@ -1,0 +1,22 @@
+.main-header {
+  padding-top: 150px;
+}
+.icon-img {
+  width: 50px;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+.subscribe {
+  background-image: url(img/c540018ca1c7b93cb1fbc218ea0c73a7.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.nike-img {
+  width: 130px;
+}
+.blur-filter {
+  backdrop-filter: blur(20px);
+  background: #cccccc65;
+}
